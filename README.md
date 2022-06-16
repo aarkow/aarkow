@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aarkow
-- 👀 I’m interested in geospatial dev, remote sensing, fire ecology, GIS, and much more.
+- 👀 I’m interested in geospatial dev, workflow automation, remote sensing, natural resource management, natural disaster monitoring, general GIS, and much more.
 - 🌱 I’m currently learning Python 3.
 - 💞️ I’m looking to collaborate on research projects, website dev, application dev...
 - 📫 How to reach me: aarkowitz@gmail.com
